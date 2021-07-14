@@ -4,7 +4,7 @@ A hard working, ambitious, 2nd Year Computer Science student at the University o
 
 ### About Me 📚 
 - 🔭 I’m currently working on a personal horror game in Unreal Engine 5.
-- 🌱 I’m currently learning new programming frameworks.
+- 🌱 I’m currently learning about blockchain development and Solidity.
 - 👯 I’m looking to collaborate to more open source projects.
 - 💬 Ask me about my journey in the software world.
 
