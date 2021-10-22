@@ -1,6 +1,6 @@
 ### Hi, I'm Sebi. 👋
 
-A hard working, ambitious, 2nd Year Computer Science student at the University of Birmingham. Verified competences in multiple programming languages, capable of cooperating in a team, possessing great insight into the business world and also a talented problem solver.
+A hard working, ambitious, final year Computer Science student at the University of Birmingham. Verified competences in multiple programming languages, capable of cooperating in a team, possessing great insight into the business world and also a talented problem solver.
 
 ### About Me 📚 
 - 🔭 I’m currently working on a personal horror game in Unreal Engine 5.
